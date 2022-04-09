@@ -1,4 +1,4 @@
-# Caves Of Qud 各种属性数值 <属性>
+# Caves Of Qud 各种属性数值 **<属性>**
 
 ## 力量 *Strength*
 
